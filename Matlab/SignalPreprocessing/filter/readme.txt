@@ -1,0 +1,3 @@
+filterDesign：双二阶滤波器设计函数，目前支持设计低通、高通、带通
+filterCoeffPrintf：滤波器系数打印函数
+filterCoeffSave：滤波器系数保存函数
